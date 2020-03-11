@@ -1,0 +1,10 @@
+I"c<p>Optional summer project hosted by NUS, supported by Google. Participated at the Apollo 11 level (highest level) under mentorship of 
+a mentor from Thoughtworks. Created an Android fitness application (available on google play store as Fitmate).</p>
+
+<p>Key features:</p>
+<ul>
+  <li>Allows users to record and send video challenges to peers of them doing push-ups, sit-ups or squats</li>
+  <li>A computer vision enabled machine learning algorithm  periodically verifies count of number of repetitions</li>
+  <li>Users gain points by completing challenges and scores are reflected in a leader board</li>
+</ul>
+:ET

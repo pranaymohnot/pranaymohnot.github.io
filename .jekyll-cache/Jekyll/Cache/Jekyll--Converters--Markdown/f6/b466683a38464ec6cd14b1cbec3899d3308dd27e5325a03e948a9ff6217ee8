@@ -1,0 +1,12 @@
+I"2<p>Course project as part of CS2113T module, where I was part of a team of 5 which developed a Java
+application to help lab technicians manage lab inventory. My reponsibilities included developing 
+core features in Java as well as writing JUnit tests. I also developed UML diagrams and system diagrams
+for our product.</p>
+
+<p>Key Features:</p>
+<ul>
+  <li>Ability to store stocks by their stock type and stock number</li>
+  <li>Tracks student loans and lost quantities and updates stock quantities</li>
+  <li>Auto generates loan list for each student</li>
+</ul>
+:ET

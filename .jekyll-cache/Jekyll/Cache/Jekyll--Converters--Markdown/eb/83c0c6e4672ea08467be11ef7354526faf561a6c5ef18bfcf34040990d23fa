@@ -1,0 +1,9 @@
+I"æ<p>FPGA audio visualiser consisting of an FPGA rendition of flappy bird game, frequency detector and interactive Audio Visualisation Coded 
+in Verilog for the Basys3 FPGA. Uses a modmic 3 for audio input and the VGA output pins for video display.</p>
+
+<p>Key features:</p>
+<ul>
+  <li>Audio Frequency Detector with an accuracy of +- 1Hz between 400 Hz and 10 kHz</li>
+  <li>FPGA rendition of the Flappy Bird game where birdâ€™s jump is controlled by amplitude of audio signal</li>
+</ul>
+:ET
